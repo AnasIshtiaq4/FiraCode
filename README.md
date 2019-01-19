@@ -1,4 +1,5 @@
-# WHY I AM ABLE TO EDIT THIS ans ishtiaq ans447766@gmail.com
+# WHY I AM ABLE TO EDIT THIS ans ishtiaq ans447766@gmail.com 
+## when that is not my repository 
 ## Fira Code: monospaced font with programming ligatures
 
 <img src="http://s.tonsky.me/imgs/fira_code_logo.svg">
